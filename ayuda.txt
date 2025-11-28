@@ -1,0 +1,7 @@
+BASE DE DATOS : "carrito"
+
+ubicacion de la carpeta "carrito":
+http://localhost/carrito/index.html
+
+las imagenes estan guardadas con ese directorio (Para q se puedan observar )
+http://localhost/carrito/Recursos/imagenes/
